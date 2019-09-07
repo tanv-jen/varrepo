@@ -12,7 +12,7 @@ pipeline {
    }
     stage('completed') {
       steps {
-        echo 'kjkhk'
+        echo 'hhhjgj'
       }
     }
   }
